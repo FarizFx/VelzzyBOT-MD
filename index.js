@@ -1,5 +1,5 @@
 'use strict';function _0x17ba(_0x122ed8,_0x4bdff3){const _0x41e3cc=_0x41e3();return _0x17ba=function(_0x17ba04,_0x5280df){_0x17ba04=_0x17ba04-0xdf;let _0x3efcbb=_0x41e3cc[_0x17ba04];return _0x3efcbb;},_0x17ba(_0x122ed8,_0x4bdff3);}const _0x55d8ed=_0x17ba;(function(_0x34cf3d,_0xc02be6){const _0x5c4cd8=_0x17ba,_0x4bc4d4=_0x34cf3d();while(!![]){try{const _0x310857=parseInt(_0x5c4cd8(0x35e))/0x1+parseInt(_0x5c4cd8(0x436))/0x2*(parseInt(_0x5c4cd8(0x1ec))/0x3)+-parseInt(_0x5c4cd8(0x2b3))/0x4*(-parseInt(_0x5c4cd8(0x2fa))/0x5)+-parseInt(_0x5c4cd8(0x40d))/0x6+parseInt(_0x5c4cd8(0x18a))/0x7*(-parseInt(_0x5c4cd8(0xdf))/0x8)+parseInt(_0x5c4cd8(0x200))/0x9+parseInt(_0x5c4cd8(0x263))/0xa*(parseInt(_0x5c4cd8(0x47f))/0xb);if(_0x310857===_0xc02be6)break;else _0x4bc4d4['push'](_0x4bc4d4['shift']());}catch(_0x1cf3de){_0x4bc4d4['push'](_0x4bc4d4['shift']());}}}(_0x41e3,0x1944a));function _0x41e3(){const _0x3c033e=['toimg',' *TIKTOK AUDIO*
-• *Creator:* Lexxy Official
+• *Creator:* Rizbot
 • *Title:* ','topupml','Balas chat dari bot yang ingin dihapus','Sukses Block Nomor','Hanya Bisa Digunakan Oleh Admin','Gunakan bot ini di pesan pribadi:3','groupSettingUpdate','
 Jawaban : *','Tanya Pak Aji',' _Second_','di bagi (÷)','4867IXBQua','hikki-me','image_url','thumbnail',' ./','hidetag','Successfully Change text Self!','Reply stikernya!','tanggal','
 Apakah data tersebut sudah benar? akan gagal apabila terdapat kesalahan input.
@@ -11,7 +11,7 @@ _*▸ Time : ','catalog','payment','
 _Contoh_
 ','total','*Sticker Convert To Image!*',' *teks_left*
 _Contoh_
-',' Lexxy','toLowerCase','format','* sudah ada di group ini.','mlstalk','Maaf sepertinya saldo kamu Rp 0, Silahkan melakukan ','
+',' rizbot','toLowerCase','format','* sudah ada di group ini.','mlstalk','Maaf sepertinya saldo kamu Rp 0, Silahkan melakukan ','
 ✨ STATUS  : Pending```
 📝 Catatan :
 ',' 628xxx','
