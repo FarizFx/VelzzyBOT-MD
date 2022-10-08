@@ -90,7 +90,6 @@ _Silahkan pilih salah satu!_','login','* @tag|teks','1425288NbBIjY','━━━[ 
 • _Pengembang : Pebri Pratama_
 • _Whatsapp : 0838-3455-8105_
 • _Youtube : Lexxy Official_
-• _Script Bot : Cek Di YouTube_
 ━━━━━━━━━━━━━━━━━━━','Admin grup mah bebas ygy','troli','topupff','
 _Depositmu telah dikonfirmasi oleh admin, silahkan cek saldo dengan cara *#me*_','audioMessage','
 ▻►▻►▻►▻►▻►▻►▻►▻►
